@@ -4,12 +4,12 @@ In this exercise, we are creating an array of PacMen that will move around the s
 
 
 ## How to Run
-Clone the repository
-Open PacMan.html in your browser
+1. Clone the repository
+2. Open PacMan.html in your browser
 
 
 ## Roadmap
-Add collision between PacMen, not just the screen edge
+* Add collision between PacMen, not just the screen edge
 
 
 ## License
