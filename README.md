@@ -1,6 +1,6 @@
 # PacMen Exercise
-In this exercise, we are creating an array of PacMen that will move around the screen and 'bounce' off the sides. "Add PacMan" creates more PacMen, and "Start Game" begins the animation.
 <img src="images/PacMan1.png" width='300'/>
+In this exercise, we are creating an array of PacMen that will move around the screen and 'bounce' off the sides. "Add PacMan" creates more PacMen, and "Start Game" begins the animation.
 
 
 ## How to Run
